@@ -1,11 +1,11 @@
 # Site settings
 author: Pedro David Garcia Lopez
-title: 
+title: U-turn
 header-img: img/home-bg.png
 email: reddevil_cero@hotmail.com
 copyright_name: Pedro David Garcia Lopez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My travel from lorry driver to Software Engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  reddevilcero
