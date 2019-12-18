@@ -6,10 +6,10 @@ permalink:  everything_has_a_start
 ---
 
 
-#### why have I started to learn to code?
+# why have I started to learn to code?
 
-##### That's not the question, if not, why have I started so late?
-###### Let's start at the very beginning.
+## That's not the question, if not, why have I started so late?
+### Let's start at the very beginning.
 
 I have never liked to use the story of my life to give sympathy or pity, and this is not going to be an exception, I have always achieved what I earned for my great work attitude, humility and dedication.
 
