@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Everything has a start."
-date:       2019-12-18 21:47:27 +0000
+date:       2019-12-18 16:47:28 -0500
 permalink:  everything_has_a_start
 ---
 
