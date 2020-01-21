@@ -13,11 +13,13 @@ I want to share some thoughts about the book I have read recently [Mind for numb
  _First of all, this post is a quick look at complex matters and concepts._
 
 
-####                                                                                  tip
+<h2 align="center" >Tip</h2>
 
 Pre-read any lecture or article (1 to 2 minutes) looking for headings, questions, or before you read it more in deep will help you to create a structure than you later will be filled with the contents. 
 
-<center>**Introduction to the Focused and Diffuse Modes**</center>
+<center> **Introduction to the Focused and Diffuse Modes** </center>
+
+
 
 
 <center><img src="https://www.7pace.com/wp-content/uploads/2019/05/focus-vs-diffuse-graphic.png" alt="focus vs diffuse" width="500"/></center>
