@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learn How To Learn To Code"
-date:       2020-01-21 13:51:03 +0000
+date:       2020-01-21 08:51:04 -0500
 permalink:  learn_how_to_learn_to_code
 ---
 
@@ -13,7 +13,7 @@ I want to share some thoughts about the book I have read recently [Mind for numb
 <center>_First of all, this post is a quick look at complex matters and concepts._</center>
 
 
-<center>**TIP**</center>
+<center> **TIP** </center>
 
 Pre-read any lecture or article (1 to 2 minutes) looking for headings, questions, or before you read it more in deep will help you to create a structure than you later will be filled with the contents. 
 
