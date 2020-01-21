@@ -10,10 +10,10 @@ permalink:  learn_how_to_learn_to_code
 
 I want to share some thoughts about the book I have read recently [Mind for numbers](https://www.google.com/search?q=ISBN+039916524X) and its [Coursera Course](https://www.coursera.org/learn/learning-how-to-learn), and helpful tips for learning code or anything you want. 
 
-<center>_First of all, this post is a quick look at complex matters and concepts._</center>
+ _First of all, this post is a quick look at complex matters and concepts._
 
 
-<center> #### tip and trick </center>
+####                                                                                  tip
 
 Pre-read any lecture or article (1 to 2 minutes) looking for headings, questions, or before you read it more in deep will help you to create a structure than you later will be filled with the contents. 
 
