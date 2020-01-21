@@ -79,7 +79,7 @@ Making a simile between study and the gym, lifting weight all day is not going t
 * Meditate or pray.
 * Sleep (the diffuse mode definitive!)
 
-#### Other general triggers of the diffuse mode to use with caution or as a reward(max 10 min). Because it can take you to a new focus mode.
+### Other general triggers of the diffuse mode to use with caution or as a reward(max 10 min). Because it can take you to a new focus mode.
 
 * Play videogames.
 * Surf the web.
