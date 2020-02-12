@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "My CLI project Best Friend"
-date:       2020-02-12 10:32:29 +0000
+date:       2020-02-12 05:32:30 -0500
 permalink:  my_cli_project_best_friend
 ---
 
+<center><img src="https://i.imgur.com/sJQlX8R.png" alt="drawing" width="400"/></center>
 
 
 This is one of the first, if not the first project I created from scratch, so I was nervous and excited at the same time.
