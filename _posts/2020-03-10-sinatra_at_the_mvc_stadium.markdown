@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SINATRA at The MVC stadium"
-date:       2020-03-10 16:23:12 +0000
+date:       2020-03-10 12:23:13 -0400
 permalink:  sinatra_at_the_mvc_stadium
 ---
 
@@ -12,6 +12,9 @@ permalink:  sinatra_at_the_mvc_stadium
 This is my first full-stack project I ever I did, well I notice that from now on I will have a lot of first times as when more a learn more I see what little I know, and I love it because I always liked the challenges and be out of my comfort zone.
 
 This project has been really challenging to me in the V of the MVC, and I will explain later why and what V means.
+
+You can watch a demostratrion [YouTube video](https://youtu.be/g5ACFU5serY) 
+and the code at [GitHub](https://github.com/reddevilcero/trailer_finder) 
 
 <center> <h1>  Let' start with the  **M** </h1></center>
 
