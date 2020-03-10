@@ -23,7 +23,7 @@ and the code at [GitHub](https://github.com/reddevilcero/trailer_finder)
 This part is the one I enjoyed the most, where I feel more comfortable and what I like the most. For that reason and how you can see I create a complex relationships between 6 different models and it is open to extension and ask data between models but that wasn't the project requirements, so I kept it as simple as my brain let me.
 
 
-<center><img src="https://imgur.com/uQSL6wp.png" alt="drawing" width="600"/></center>
+<center><img src="https://i.imgur.com/sFgpJwQ.png" alt="drawing" width="600"/></center>
 
 I used custom validations, ActiveRecord ones, has many, belong to,  many to many, and so on.
 
