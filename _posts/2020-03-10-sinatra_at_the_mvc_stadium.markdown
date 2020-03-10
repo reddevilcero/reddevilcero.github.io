@@ -42,7 +42,7 @@ I broke and fixed my app at least a hundred times, and I'm not 100% sure that is
 One Controller to bring them all
    and in the View bind them.
 
-Well, I needed For, but in the end, all goes to the ApplicationController so ... 
+Well, I needed four, but in the end, all goes to the ApplicationController so ... 
 
 And I add I little bit of salt with flash messages and two easter eggs I hope you can find (they are not difficult).
 
