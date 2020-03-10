@@ -16,7 +16,7 @@ This project has been really challenging to me in the V of the MVC, and I will e
 You can watch a demostratrion [YouTube video](https://youtu.be/g5ACFU5serY) 
 and the code at [GitHub](https://github.com/reddevilcero/trailer_finder) 
 
-<center> <h1>  Let' start with the  **M** </h1></center>
+<center> <h1>  Let' start with the  <strong>M</strong> </h1></center>
 
 ###  M from Model and the first pillar of useful web and the internet itself on, in other words, **THE DATA**
 
