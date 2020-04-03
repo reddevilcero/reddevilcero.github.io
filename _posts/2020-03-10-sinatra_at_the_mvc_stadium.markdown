@@ -7,7 +7,7 @@ permalink:  sinatra_at_the_mvc_stadium
 
 <center><img src="https://i.imgur.com/sFgpJwQ.png" alt="drawing" width="600"/></center>
 
-
+## [live demo](https://trailer-finder.herokuapp.com/) 
 This is my first full-stack project I ever I did, well I notice that from now on I will have a lot of first times as when more a learn more I see what little I know, and I love it because I always liked the challenges and be out of my comfort zone.
 
 This project has been really challenging to me in the V of the MVC, and I will explain later why and what V means.
