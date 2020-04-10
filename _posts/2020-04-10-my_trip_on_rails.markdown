@@ -11,6 +11,12 @@ permalink:  my_trip_on_rails
 ## [Github Repo](https://github.com/reddevilcero/sushi-store)
 ## [Video Demostration](https://youtu.be/eTLiPR__Wpw)
 
+### Credential to login as Admin: 
+* Webmaster@gmail.com
+* 0000
+
+
+
  Today is the Day than finally I finished my Rails project two weeks of hard work in Front-end and enjoying my back-end part, where Rails make your life easy.
 The ones than follow my progression will already know that the front-end and CSS aren't my best friends...yet.
 I decided to go with the pretty friend of CSS,  Sass, which is more manageable and friendly for me as you can reuse code through mixins, and you can use nesting selectors, which makes targeting things way easy.
