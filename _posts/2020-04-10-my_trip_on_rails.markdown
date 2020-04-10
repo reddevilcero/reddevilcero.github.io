@@ -5,6 +5,7 @@ date:       2020-04-10 15:42:55 -0400
 permalink:  my_trip_on_rails
 ---
 
+<center><img src="https://i.imgur.com/ABo4188.jpg" alt="drawing" width="600"/></center>
 
 ## [Live demo](https://sushi-to-you.herokuapp.com/)
 ## [Github Repo](https://github.com/reddevilcero/sushi-store)
