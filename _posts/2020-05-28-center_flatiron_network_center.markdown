@@ -1,10 +1,12 @@
 ---
 layout: post
-title:      "<center>Flatiron Network</center>"
+title:      "<center> Rails and JavaScript Project </center>"
 date:       2020-05-28 10:23:24 -0400
 permalink:  center_flatiron_network_center
 ---
 
+
+## <center> Flatiron Network </center>
 <center><img src="https://i.imgur.com/VBolm77.png" alt="drawing" width="800"/></center>
 
 ## [Github Repo](https://github.com/reddevilcero/sushi-store)
