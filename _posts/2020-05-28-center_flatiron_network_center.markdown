@@ -82,7 +82,6 @@ on the DB, so it's time to move to the Frontend and the Google Maps.
 
 ### The Map
 
-To be honest, I was scared to work with google maps and it's API as I have the mental model that it will be difficult and you have to be a professional developer to do so, far from reality.
 To be honest, I was scared to work with google maps, and it's API as I have the mental model that it will be difficult and you have to be a professional developer to do so, far from reality.
 First, I create a module on my `frontend/modules/` called map.js where after I create a class method to display the map on the DOM.
 
