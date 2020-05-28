@@ -85,19 +85,11 @@ on the DB, so it's time to move to the Frontend and the Google Maps.
 To be honest, I was scared to work with google maps, and it's API as I have the mental model that it will be difficult and you have to be a professional developer to do so, far from reality.
 First, I create a module on my `frontend/modules/` called map.js where after I create a class method to display the map on the DOM.
 
-To be honest, I was scared to work with google maps, and it's API as I have the mental model that it will be difficult and you have to be a professional developer to do so, far from reality.
-
 Before anything, you should have config your Goggle Dev console and enable Maps JavaScript API and have a valid API and add this script to your HTML
 
 ` <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"
    async defer></script>`
 	 
-To be honest, I was scared to work with google maps, and it's API as I have the mental model that it will be difficult and you have to be a professional developer to do so, far from reality.
-
-Before anything, you should have config your Goggle Dev console and enable Maps JavaScript API and have a valid API and add this script to your HTML
-
-` <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"
-   async defer></script>`
 	 
 First, I create a module on my `frontend/modules/` called map.js, where I created a class Map and its methods to display the map on the DOM.
 ``` 
