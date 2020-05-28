@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "<center>Flatiron Network</center>"
-date:       2020-05-28 14:23:23 +0000
+date:       2020-05-28 10:23:24 -0400
 permalink:  center_flatiron_network_center
 ---
 
