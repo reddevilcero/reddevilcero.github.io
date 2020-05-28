@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "<center> Rails and JavaScript Project </center>"
+title:      "Rails and JavaScript The Perfect Love  "
 date:       2020-05-28 10:23:24 -0400
 permalink:  center_flatiron_network_center
 ---
