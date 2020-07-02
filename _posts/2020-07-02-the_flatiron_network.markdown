@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "The Flatiron Network"
-date:       2020-07-02 14:55:26 +0000
+date:       2020-07-02 10:55:27 -0400
 permalink:  the_flatiron_network
 ---
 
-## <center> My final project </center>
+## <center> My Bootcamp Final Project </center>
 <center><img src="https://i.imgur.com/rwheycf.jpg" alt="drawing" width="800"/></center>
 
 ## [Github Repo](https://github.com/reddevilcero/flatiron-network-react)
